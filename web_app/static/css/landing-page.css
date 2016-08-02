@@ -43,6 +43,7 @@ h6 {
     
     color:white;
     border-color:#fff;
+    font-size:1.5em;
    
 }
 
@@ -57,6 +58,10 @@ h6 {
     color:white;
 }
 
+#fa fa-linkedin fa-fw{
+    
+    color:white;
+}
 #linkedin{
     
     
@@ -66,7 +71,7 @@ h6 {
 
 #linkedinspan{
     
-    margin-right:170px;
+    margin-right:10%;
     float:right;
     
    width:200px;
@@ -168,6 +173,7 @@ h6 {
     
     display: inline-block;
     width:150%;
+    background-color:pink;
 }
 
 #go-safe{
@@ -274,3 +280,47 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+#bottonname{
+    display: inline-block;
+    clear:none;
+    margin-left:0px;
+   
+    
+    width:60%;
+}
+
+#bottonname h2{
+    
+    font-size:35px;
+}
+
+#bottonlinks{
+    display: inline-block;
+    float: right;
+    
+    clear:none;
+}
+
+#techword{
+    
+    font-size:20px;
+    color: gray;
+}
+#yelp{
+    
+    width:45px;
+    height:45px;
+}
+
+#bootstraplink{
+    margin-left: 5px;
+}
+
+input.error { border: thin solid red; }
+  label.error {
+      background: url('red_x.gif') no-repeat;
+      padding-left: 20px;
+      margin-left: 0.5em;
+      color: red;
+  }
